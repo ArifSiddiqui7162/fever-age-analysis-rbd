@@ -98,47 +98,52 @@ These tests help determine which fever types significantly differ across age gro
 └── report/
     └── Final_Minor_Project_Report.pdf
 
-🛠️ Tools & Technologies
-📊 MS Excel for ANOVA and Post-Hoc testing
+---
 
-🧮 Descriptive and Inferential Statistics
+## 🛠️ Tools & Technologies
 
-🧾 Randomized Block Design (RBD)
+- 📊 **MS Excel**: Used for ANOVA and post-hoc testing (CD, Tukey’s, and Scheffé’s tests)
+- 🧮 **Descriptive & Inferential Statistics**: Applied to explore patterns in data
+- 🧾 **Randomized Block Design (RBD)**: To control variability across age groups
+- 📈 **Graphical Visualization**: Bar plots, tables, and summary stats (Excel & Python)
 
-📈 Graphical Visualization (bar plots, tables)
+---
 
-🔮 Future Scope
-Integrate machine learning models to forecast fever trends.
+## 🔮 Future Scope
 
-Use larger datasets from hospitals or government portals.
+- 🤖 Integrate **machine learning models** to forecast fever trends
+- 🏥 Use **larger real-world datasets** from hospitals or government agencies
+- 🌦️ Expand scope to **seasonal and geographical analysis** of fever patterns
 
-Expand scope to seasonal analysis or geographical clustering.
+---
 
-📖 References
-World Health Organization (WHO)
+## 📖 References
 
-Centers for Disease Control and Prevention (CDC)
+- World Health Organization (WHO) – [www.who.int](https://www.who.int)
+- Centers for Disease Control and Prevention (CDC) – [www.cdc.gov](https://www.cdc.gov)
+- Indian Council of Medical Research (ICMR) – [www.icmr.nic.in](https://www.icmr.nic.in)
+- National Center for Biotechnology Information (NCBI) – [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov)
+- Government of India Health Reports – [www.mohfw.gov.in](https://www.mohfw.gov.in)
 
-Indian Council of Medical Research (ICMR)
+---
 
-National Center for Biotechnology Information (NCBI)
+## 🙌 Acknowledgements
 
-Government of India Health Reports
+We sincerely thank:
 
-🙌 Acknowledgements
-We thank:
+- **Savitribai Phule Pune University** for the academic platform
+- **Dr. Jayashree Muley**, our project guide and Head of Department
+- **Kamala Education Society & Pratibha College** for resources and support
+- Our families, friends, and peers who helped us throughout the journey
 
-Savitribai Phule Pune University
+---
 
-Dr. Jayashree Muley (Project Guide and HOD)
+## 📬 Contact
 
-Kamala Education Society & Pratibha College
+For any queries, collaborations, or suggestions:
 
-Our families, peers, and library staff for their constant support.
+- 📧 **Gmail**: arifsiddiqui@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/aarifsiddiqui
 
-📬 Contact
-For queries, collaborations, or feedback:
+---
 
-📧 aarif.siddique@email.com
-
-💼 LinkedIn – https://www.linkedin.com/in/aarifsiddiqui
